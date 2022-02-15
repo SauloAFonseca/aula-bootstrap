@@ -1,0 +1,40 @@
+h3 {
+    margin-bottom: 20px;
+}
+img {
+    width: 200px; 
+    height: 200px;
+}
+.logo {
+    width: 100px; 
+    height: 100px;
+}
+.navbar {
+    background-color: #A9B4C2;
+
+}
+.navbar-brand {
+    margin-left: 40px;
+
+}
+.quem-somos {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+p {
+    margin: 20px;
+}
+.parceiros {
+    background-color: #EEF1EF;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.serv {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+footer {
+    background-color: #EEF1EF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
